@@ -1,4 +1,4 @@
-What do you expect when you came here to see my code?
+What did you expect when you came here to see my code?
 Disappointment?
 
 All you get is this silly cat:
