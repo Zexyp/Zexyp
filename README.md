@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/blender-e87d0d.svg?style=for-the-badge&logo=blender&logoColor=white)
+![](https://img.shields.io/badge/debian-d70a53.svg?style=for-the-badge&logo=debian&logoColor=white)
+
+
 What did you expect when you came here to see my code?
 Disappointment?
 
