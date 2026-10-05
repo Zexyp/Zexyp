@@ -14,7 +14,8 @@ All you get is this silly cat:
 ```
 
 Fine, here you go:
-### [Portfolio](https://zexyp.github.io/portfolio/)
+
+[![Portfolio](https://img.shields.io/badge/github%20pages-portfolio-323232.svg?style=for-the-badge&logo=github&logoColor=white)](https://zexyp.github.io/portfolio/)
 
 <!--
 **Zexyp/Zexyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
